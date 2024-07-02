@@ -1,4 +1,4 @@
 # InterfazGraficaArboles
 ![Arbol1](https://github.com/manuelminga/InterfazGraficaArboles/assets/166522911/dbe3f0a1-3313-4376-8133-689864ec6529)
-![Arbol1](https://github.com/manuelminga/InterfazGraficaArboles/assets/166522911/dbe3f0a1-3313-4376-8133-689864ec6529)
+
 
