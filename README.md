@@ -3,7 +3,10 @@
 
 Participantes del grupo:
 -Dilan Chamba
+
 -Roberto Lliguin
+
 -Sebastian Narvaez
+
 -Benito Minga
 
