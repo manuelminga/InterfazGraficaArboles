@@ -12,3 +12,5 @@ Participantes del grupo:
 -Benito Minga
 
 .
+V1.0.0
+![imagen](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/06cb3088-23e5-40c8-9865-346ffc8f079d)
