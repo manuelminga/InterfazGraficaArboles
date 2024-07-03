@@ -11,9 +11,8 @@ Participantes del grupo:
 
 -Benito Minga
 
-.
-Flujo de la Aplicación
 
+Flujo de la Aplicación
     El usuario ingresa un valor en el campo de texto y hace clic en "Añadir Nodo" o "Eliminar Nodo".
     El árbol binario se actualiza en consecuencia.
     El área de texto muestra los recorridos actualizados del árbol.
