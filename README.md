@@ -13,4 +13,6 @@ Participantes del grupo:
 
 .
 V1.0.0
+![imagen](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/654691a8-31d9-4130-a23a-65a7f800aacf)
+
 ![imagen](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/06cb3088-23e5-40c8-9865-346ffc8f079d)
