@@ -1,7 +1,7 @@
 # InterfazGraficaArboles
 ---
 
-##Participantes del grupo:
+**Participantes del grupo:**
 
 - Dilan Chamba
 
@@ -16,7 +16,7 @@
 
 ---
 
-##FLUJO DE LA APLICACION
+**FLUJO DE LA APLICACION**
 
 El usuario ingresa un valor en el campo de texto y hace clic en "Añadir Nodo" o "Eliminar Nodo".
 
@@ -31,12 +31,14 @@ Los botones de recorrido permiten al usuario ver el árbol en diferentes órdene
 ![ARBOL BINARIO](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/721753cb-53bf-458b-8224-30a6f900c6cc)
 
 ---
-##Codigo
+**Codigo**
 
 - Tenemos diferentes clases, los cuales cumplen una determinada funcion, ya que el mismo nos ayuda a poder simplificar la complejidad del programa
+  
   ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/175baf6b-9173-4ee3-9063-a60bdfc9b884)
 
 
+---
 
   Este código Java implementa una interfaz gráfica para gestionar un árbol binario. A continuación se presenta una breve explicacion del código en cuanto a la vista de la como es el funcionamiento de la interfaz:
   ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/47b53db9-de62-48c3-a416-631211a5765d)
