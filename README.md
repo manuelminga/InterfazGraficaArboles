@@ -41,6 +41,7 @@ Los botones de recorrido permiten al usuario ver el árbol en diferentes órdene
 ---
 
   Este código Java implementa una interfaz gráfica para gestionar un árbol binario. A continuación se presenta una breve explicacion del código en cuanto a la vista de la como es el funcionamiento de la interfaz:
+  
   ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/47b53db9-de62-48c3-a416-631211a5765d)
   ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/c04ab3a6-b9a1-4c9b-a422-4c96662864cb)
   ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/e0bb7fcc-caf1-40d1-97c7-231af4ba04a4)
