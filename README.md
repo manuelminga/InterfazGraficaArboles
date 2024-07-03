@@ -69,5 +69,8 @@
 5. **Método `actualizarRecorridos`**:
    - Actualiza el `JTextArea` con los recorridos actuales del árbol binario en las tres formas: Preorden, Inorden y Postorden, obtenidos de los métodos correspondientes del objeto `ArbolBinario`.
 
+---
 Este programa proporciona una interfaz gráfica interactiva para gestionar un árbol binario, permitiendo agregar y eliminar nodos, y visualizar los recorridos del árbol en diferentes órdenes.
+---
+**Gracias por usar nuestro programa**
 
