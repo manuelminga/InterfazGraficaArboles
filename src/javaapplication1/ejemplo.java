@@ -4,16 +4,23 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.Color;
-public class ejemplo {
 
+public class ejemplo {
     public static void main(String[] args) {
         ArbolBinario arbol = new ArbolBinario();
-        
+        arbol.agregarNodo(18);
+        arbol.agregarNodo(12);
+        arbol.agregarNodo(25);
+        arbol.agregarNodo(17);
+        arbol.agregarNodo(54);
+        arbol.agregarNodo(92);
+        arbol.agregarNodo(1);
+        arbol.agregarNodo(7);
 
         // Creación del JFrame principal
         JFrame frame = new JFrame("Árbol Binario");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.setSize(2000, 900);
+        frame.setSize(800, 600);
 
         // Panel para la visualización del árbol
         VistaArbol vistaArbol = new VistaArbol(arbol);
