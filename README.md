@@ -18,15 +18,11 @@
 
 **FLUJO DE LA APLICACION**
 
-El usuario ingresa un valor en el campo de texto y hace clic en "Añadir Nodo" o "Eliminar Nodo".
-
-El árbol binario se actualiza en consecuencia.
-    
-El área de texto muestra los recorridos actualizados del árbol.
-    
-La vista del árbol se repinta para reflejar los cambios.
-    
-Los botones de recorrido permiten al usuario ver el árbol en diferentes órdenes de recorrido (preorden, inorden, postorden).
+- El usuario ingresa un valor en el campo de texto y hace clic en "Añadir Nodo" o "Eliminar Nodo".
+- El árbol binario se actualiza en consecuencia.
+- El área de texto muestra los recorridos actualizados del árbol.
+- La vista del árbol se repinta para reflejar los cambios.
+- Los botones de recorrido permiten al usuario ver el árbol en diferentes órdenes de recorrido (preorden, inorden, postorden).
     
 ![ARBOL BINARIO](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/721753cb-53bf-458b-8224-30a6f900c6cc)
 
