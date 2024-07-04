@@ -24,12 +24,14 @@
 - La vista del árbol se repinta para reflejar los cambios.
 - Los botones de recorrido permiten al usuario ver el árbol en diferentes órdenes de recorrido (preorden, inorden, postorden).
 
+---
+
 - **Primera version de la vista de la interfaz**
     
 ![ARBOL BINARIO](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523151/721753cb-53bf-458b-8224-30a6f900c6cc)
 
 ---
----**Segunda version de la vista de la interfaz**
+- **Segunda version de la vista de la interfaz**
 ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/c7a2b733-4fc0-4ea0-bb43-2a9ea11fdf6c)
 ![image](https://github.com/manuelminga/InterfazGraficaArboles/assets/166523434/88a7a873-997d-4727-b00e-7982af8a546b)
 
